@@ -1,2 +1,5 @@
 # hello-world3
-just another repository
+
+Hi Humans
+
+making changes to the read me file here
